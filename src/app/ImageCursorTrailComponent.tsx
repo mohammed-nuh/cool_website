@@ -16,7 +16,7 @@ const ImageCursorTrailComponent = () => {
 ];
 
   return (
-    <div className='flex items-center justify-center'>
+    <div className='flex items-center justify-center mb-10'>
         <ImageCursorTrail
         items={scroll_images.map(img => ({ src: img.src, alt: img.alt }))}
         maxNumberOfImages={5}
