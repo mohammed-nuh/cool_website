@@ -9,8 +9,8 @@ const HoverExpandComponent = () => {
         <HoverExpand
               images={hover_images}
               initialSelectedIndex={0}
-              thumbnailHeight={200}
-              modalImageSize={400}
+              // thumbnailHeight={200}
+              // modalImageSize={400}
               maxThumbnails={11}
         />
     </div>
