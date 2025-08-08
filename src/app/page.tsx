@@ -1,8 +1,3 @@
-import Image from "next/image";
-
-import HoverExpand from "@/components/ui/hover-expand"
-import ImageCursorTrail from "@/components/ui/image-cursortrail"
-
 import CarouselComponent from "./CarouselComponent";
 import CardSwipeComponent from "./CardSwipeComponent";
 import HoverExpandComponent from "./HoverExpandComponent";
